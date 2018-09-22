@@ -16,7 +16,7 @@ a{
 
 #home-background{
     background-image: url(https://wallpapertag.com/wallpaper/full/c/7/3/564392-most-popular-fantasy-nature-wallpaper-1920x1080.jpg);
-    height: 100%;
+    height: 1000px;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,3 +27,13 @@ a{
     left: 0;
     z-index: -1;
 }
+
+
+.main-directory-text{
+    display: inline-block;
+}
+
+.directory{
+    text-align: center;
+}
+

@@ -11,7 +11,7 @@ class About extends Component {
                 </div>
                 <div>
                     {this.props.items.map(i => {
-                        return <div>{i}</div>
+                        return <div key={i}>{i}</div>
                     })}
                 </div>
             </div>

@@ -2,6 +2,8 @@
     position: absolute;
     top: 25%;
     left: 10%;
+    display: inline-block;
+   
 }
 
 input{
@@ -17,11 +19,14 @@ input{
 }
 
 #button{
+    top: 1.75vh;
+    left:105%;
+    position: absolute;
     background-color: #3498db;
     border: none;
     color: white;
-    padding: 1vh;
-    width: 5vw;
+    padding: 1.5vh;
+    width: 10vw;
     text-align: center;
     text-decoration: none;
     display: inline-block;

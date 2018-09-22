@@ -1,6 +1,6 @@
 #fentities-title{
-    margin: 5vh;
-    font-size: 4vh;
+    margin: 7vh;
+    font-size: 12vh;
 }
 
 .mini{
@@ -10,7 +10,7 @@
 
 
 .directory-img{
-    height: 15vh;
+    height: 40vh;
     vertical-align: middle;
 }
 .mini > span{
